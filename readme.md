@@ -14,3 +14,7 @@ font-size
 font-weight
 text-transform
 align items
+
+### output got
+
+![Output](image.png)
